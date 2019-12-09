@@ -6,8 +6,12 @@ WINDOWS 8.1
 WINDOWS 7
 	- vista to 8.1 (use rufus)
 	- xp to 8.1 (use rufus)
+CHANGE PRODUCT KEY 7, 8 or 10
+
 OFFICE 2016, 2019
 OFFICE 2013
+CHANGING & REMOVING PRODUCT KEY OF OFFICE USING CMD
+
 
 
 WINDOWS 10
@@ -34,6 +38,21 @@ Upgrade 7, 8 to Home 10
 - http://pchelpmate.com/windows-10/upgrade-from-7-8-1
 - use "Generic Key" in the website
 - NOTE: choose "Keep Persoanl Files Only" because apps can be downloaded
+
+CHANGE PRODUCT KEY 7, 8 or 10
+- https://www.howtogeek.com/245445/how-to-use-slmgr-to-change-remove-or-extend-your-windows-license/
+1. open Administrator Command 		- right click window icon, choose Command Prompt (Admin)
+2. slmgr.vbs /dli 					- (display key)
+3. slmgr.vbs /dlv 					- (display installation id) 
+4. slmgr.vbs /xpr 					- (display expiration date) if no key it wil display error
+5. slmgr.vbs /upk 					- (uninstall key) restart computer after uninstall
+6. slmgr.vbs /cpky 					- (uninstall registry key) make sure to run uninstall key before running uninstall registry key
+									- note: running uninstall registry key will uninstall the key both uninstall key and registry shoult run
+7. slmgr.vbs /ipk #####-#####-#####-#####-#####		- install new key
+8. slmgr.vbs /ato 					- (activate key online)
+9. slmgr.vbs /dti 					- (activate key offline) this will give you the installation id
+10. slmgr.vbs /atp ACTIVATIONID 	- this will give you the installation id
+11. slmgr.vbs /rearm 				- extends 30-day trial period, restart computer after
 
 
 WINDOWS 8.1
@@ -91,7 +110,7 @@ Install/Download & Activate
 - https://setup.office.com/
 - ERROR: Activated the Maximum number of times (meaning there are more than 1 keys installed)
 - NOTE: choose first the Online Activation befaore the Phone Activation
-	Open MS Word, click back button, Choose Phone Activation, Send me the installation id numbers
+		Open MS Word, click back button, Choose Phone Activation, Send me the installation id numbers
 
 Change Product Key 				
 - http://pchelpmate.com/ms-office/office-2016/change-the-product-key
@@ -99,8 +118,8 @@ Change Product Key
 - win7 rights click "CMD" or win10 right click "Command Prompt" and "Run as Administrator"
 - cd C:\Program Files (x86)\Microsoft Office\Office16 	- for 64bit OS and 32bit Office
 - cd C:\Program Files\Microsoft Office\Office16 		- for 64bit OS and 64bit Office or 32bit OS and 32bit Office
-- cscript ospp.vbs /dstatus					- display all product keys (see only the last 5 digit of the key)
-- cscript ospp.vbs /unpkey:XXXXX 				- uninstall (all) the key change five X to last digit of the key
+- cscript ospp.vbs /dstatus								- display all product keys (see only the last 5 digit of the key)
+- cscript ospp.vbs /unpkey:XXXXX 						- uninstall (all) the key change five X to last digit of the key
 - cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX 		- change the X og the key of the office
 
 
@@ -110,7 +129,7 @@ Install/Download & Activate
 - https://setup.office.com/
 - ERROR: Activated the Maximum number of times (meaning there are more than 1 keys installed)
 - NOTE: choose first the Online Activation befaore the Phone Activation
-	Open MS Word, click back button, Choose Phone Activation, Send me the installation id numbers
+		Open MS Word, click back button, Choose Phone Activation, Send me the installation id numbers
 
 Change Product Key 				
 - same process of 2016 (just go to the link of 2013 change key)
@@ -125,6 +144,11 @@ Install/Download & Activate
 Change Product Key 				
 - http://pchelpmate.com/ms-office/office-2010/change-the-product-key
 
+
+CHANGING & REMOVING PRODUCT KEY OF OFFICE USING CMD
+***************************************************
+chaging key - https://www.top-password.com/blog/change-office-2019-2016-product-key/
+removing key - https://www.top-password.com/blog/remove-license-product-key-for-office-2016-2013/
 
 
 
