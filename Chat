@@ -1,0 +1,271 @@
+/050
+This error means that either you are trying to activate a different version of windows or that your system is out of date. 
+Can you tell me what version do you have installed? Home or Pro?
+
+/10clean
+sure, here are the guides
+http://pchelpmate.com/windows-10/usb-creation 
+http://pchelpmate.com/windows-10/clean-installation
+
+/10phoneact
+In this case, we just need to perform activation using the automated phone system. The easiest way to do it is to choose the phone 
+activation option below this error or go back and then choose telephone activation, and send us installation ID that is shown there 
+(9 columns of 7 or 6 digits).
+
+/365officeuninstall
+You will need to uninstall office 365. To do so please go to settings -> apps and type in the box, saying "search this list": office.
+You need to uninstall everything saying office 365 or office (without version name)
+
+/64-32
+if you have more than 4 Gb of ram you need 64-bit version
+if less you will better go with 32
+
+/7act-done
+The activation was successful, please type in the key again and it should go through online this time.
+
+/7REARM
+Please go to Start and in the search bar type in CMD, in the results you will see "Command Prompt", right 
+click on it and select "Run as Administrator". Once the command prompt is on type in this command:
+slmgr.vbs /rearm
+And press enter, once you do it you should receive information that the action was successful and you should 
+restart your computer. After restarting Windows will be in 30-day trial mode during which you can type in the 
+key and activate the Windows.
+
+/80refund
+I can issue a 80% refund to cover our payment system tax and advertisement cost's thanks to which you found us.  
+Generally we do not accept returns of digital software but if you haven't used the key we can make an exception.
+
+/90daysHardwareChange
+If you use the license key to activate your computer and then change any hardware, you will have to wait at least 90 days since the initial activation in order to activate again with the same license key.
+
+/Activation
+Please go to Settings -> Update & Security -> Activation and press change the product key. The activation window 
+will appear, please type in the license key and tell me what do you see.
+If you see any error code please tell me.
+
+/antivirus-disable
+You need to disable anti-virus, please take a look at this site:
+https://blog.pcrisk.com/windows/12405-how-to-temporarily-disable-your-antivirus
+
+/automaticupdates7
+You need to disable automatic updates, here is a guide showing each step of the process: 
+https://www.wikihow.com/Turn-Off-Windows-Update-in-Windows-7
+
+/automaticupdates8
+You need to disable automatic updates, here is a guide showing each step of the process: 
+https://www.isunshare.com/windows-8/turn-off-windows-automatic-updates-in-windows-8-8.1.html
+
+/BankBlocked
+I have just checked this for you and it says your payment has been blocked by your bank, all you'll have to do 
+is ring your bank and get them to authorise the payment.
+
+/Boot
+To boot your pc from a bootable USB you have to restart your pc. Before Windows system will start you will see 
+a message on your screen "press <the key> to access boot menu" (it will disappear quickly so please look carefully). 
+The key is different depending on what computer model you have. Once you will press the key instead of the windows 
+logo you will see a few options - you have to choose the USB and press enter. 
+
+Here are the common boot keys for popular manufacturers: https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-computer-systems-2624463
+
+/Both
+Using those files you can do both - a clean installation and an upgrade form 7/8.1
+
+/check
+Please hold on, while I check this.
+
+/Chromebook
+It's possible to install Windows on a Chromebook but you would lose your warranty as it is not officially supported 
+system on that device also, we would not be able to assist you with the installation process as it too complicated. 
+
+So, if you decide to install it, it will be your responsibility to do so and we would not accept any refunds, here 
+is a link to a detailed guide on how to do this, please have a good look through it first before purchasing to make 
+sure you are able to perform the installation steps: https://www.howtogeek.com/278953/how-to-install-windows-on-a-chromebook/
+
+/cleaninstall
+here is the guide
+
+http://pchelpmate.com/windows-10/usb-creation 
+http://pchelpmate.com/windows-10/clean-installation
+
+You need to make a Bootable USB first and then you can perform a clean installation.
+
+/cmd
+please open start menu
+type in CMD
+right click on command prompt
+open as administrator
+when in the command prompt, type:
+
+/Contains
+You can see all the programs contained in the description.
+
+/currency
+You can choose your currency at the top of the site.
+
+/delivery
+You will have instant access to the product immediately after purchase directly on our website, there will also be an email sent.
+
+/differe
+The big difference between Windows 10 Home and Windows 10 Pro is the security of the operating system. Windows 10 Pro safer when 
+it comes to protecting your PC and protecting data. Windows 10 Pro also has useful features such as Remote Desktop to remotely connect
+to another PC in the office.
+
+/digital
+We're selling digital files only with this purchase.
+
+/dvd
+With this purchase, you will receive digital files only. You can easily make a bootable cd or USB yourself using those files. 
+You can order a physical disc additionally for 9$
+
+/email
+My I have your email use when purchased?
+
+/Error
+Can you tell me what error message/code do you see when using your license key?
+
+/errorcode
+Can you please tell me the error message or the error code?
+
+/Exchange
+Sorry for the trouble. In that case, I will exchange your key for a new one. I will send it here on the chat in a second, please try to activate your system using it and tell me if it worked.
+
+/Firstsale
+The first sale doctrine, codified at 17 U.S.C. § 109, provides that an individual who knowingly purchases a copy of a copyrighted work from the copyright holder receives the right to sell, display or otherwise dispose of that particular copy, notwithstanding the interests of the copyright owner.
+
+/FullVersionSoftware
+The software is downloaded directly from Microsoft so it is a full version of the software with all features, updates and MS support. We also guarantee the activation of our keys either over the internet or by phone and we offer free tech support if you need help with the installation.
+
+/generickeyWin10HOME
+Please enter this TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 generic key. When setup accepts it and the upgrade goes through you will need to go to your computer's Settings - Update and Security - Activation and enter your actual key there which you purchased from us to activate the system.
+
+/genericKeyWin10PRO
+Please enter this Windows 10 Professional generic key W269N-WFGWX-YVC9B-4J6C9-T83GX. When it goes through and setup finishes you will need to go to your computer's Settings - Update and Security - Activation and there you will need to enter your actual key which you purchased from us to activate the system.
+
+/genuine
+Yes, it is the full and genuine version of the software that comes with the Microsoft support and all updates as normal.
+
+/guarantee
+We guarantee activation of our keys and free tech support.
+
+/Guide-upgrade10
+Please take a look here. It's a detailed guide showing the whole process of upgrading from windows 7 or 8.1 to windows 10:
+http://pchelpmate.com/windows-10/upgrade-from-7-8-1
+
+/Guide-USB10
+Please take a look here. It's a detailed guide showing the whole process of creating a bootable USB of windows 10
+http://pchelpmate.com/windows-10/usb-creation
+
+/hello
+Hello there! How can I help you today?
+
+/hi
+Hi there!
+
+/Inbox
+Please check your inbox and spam box.
+
+/Issue
+If you would have any issue, please contact us and we will get it resolved.
+
+/key-and-links
+After your purchase you will be provided with the key and installation links. They are going to be displayed on your screen, available in the account on our website and also sent to your email address that you provided during purchase.
+
+/Location
+ARTCOMP LLC 3 Germay Dr, Unit 4 #1241
+Wilmington DE 19804 USA
+
+/moreinfoplease
+Please provide us with more information about this problem, what is the exact error message when you type in the key?
+
+/msSupport
+f you need to contact a live person in Microsoft customer service you need to dial 1-877-696-7786. This number is available 24 hours a day. To speak with a live agent, you need to press 3 at the first prompt, then press 6 at the second prompt and press 6 at the third.
+
+/myaccount
+Go here https://pcmarket-online.com/my-account and click on digital products.
+
+/nopro
+No problem, if you have any additional questions feel free to ask.
+
+/officephoneact
+In this case all you have to do is go back and choose the phone activation option and send me the installation ID that will be displayed there ( 9 groups of numbers ) and I will activate this for you.
+
+/OfficePhoneSuccessful
+Phone activation was successful, you can now go back again and choose the option to activate over the internet again and it will go through this time.
+It should be activated now.
+
+/payment
+it's a one time payment and lifetime key for one computer
+
+/Paypal
+I am sorry but we don't accept PayPal. You can use your credit or debit card.
+
+/printscreen
+Could you type the key again and send me a print screen of the error? (you can paste images here)
+
+/ProjectAndVisioInstaller
+When installing Microsoft Project/ Visio it is normal that it says "installing Office". The reason for this is because MS haven't changed the way the installer looks but I assure you that once it is actually installed it will be Project/ Visio so you shouldn't worry about this.
+
+/question10
+Do you have Windows 10 already installed?
+
+/questionUpgrade
+Do you want to upgrade from windows 7 or 8.1?
+
+/Ram
+Please press the right mouse button over my computer and choose properties. You will see RAM memory there. You can also type sysinfo in your start menu and choose system information.
+
+/refundpolicy
+For digital products there is no refunds policy, however, we guarantee activation of our keys and free tech support. If the key would be in fact unusable (very very rarely but it happens) then we just exchange the key for a working one.
+
+/Review
+I'm glad to hear that you're happy with the service I provided for you today, if you have a few spare minutes please go to this link and write us an honest review on the left hand side of the screen : https://www.google.com/maps/place/PC+MARKET+Online/@39.7338328,-75.639227,17z/data=!4m7!3m6!1s0x89c701e3ebafffff:0xc5b8b63fdfa8a5cb!8m2!3d39.7338328!4d-75.6370383!9m1!1b1
+
+/right
+You are looking at the right product.
+
+/sale
+All our products are already on 50% sale.
+
+/scraped
+Our products come from scrapped computers that are no longer in use.
+Therefore we can re-sell them for a lower price.
+
+/Screenshot
+I will help you to resolve this problem which you are experiencing. Please send me a screenshot/ photo of the error message that you receive right after attempting activation. This will help me to identify what the exact problem is and what needs to be done to fix it.
+
+/security
+Company management has gone to great lengths to ensure payment safety. Connection to our website is always encrypted, we have Cloudflare web application firewall and Mcafee that regularly scans our website for security breaches.
+
+/slui
+Open start menu, type in SLUI 04, click on the keys icon, choose country and then send me this 9 set of  numbers that will be shown there - installation ID.
+
+/software
+The software products are in digital form only and the product itself will be available for you on the website immediately after the payment (key and download links). You should also receive an email with the key and links as well.
+
+/softwarewin
+The software products are in digital form only and the product itself will be available for you on the website immediately after the payment (key and download links). After the download you can create your own DVD or flash drive for installation.
+
+/splashtop
+Please download this little program and run it, it will generate a set of 9 numbers, once you provide me the numbers please don't close it. I will be able to remotely connect to your computer:  https://www.splashtop.com/sos-download
+
+/Subscription
+This is only a one-time payment that will activate your product for the whole of the device's lifetime on one machine. None of our products are subscription based.
+
+/systemcheck
+Please visit this site - it will help you state what system do you have installed right now.
+https://www.lifewire.com/what-version-of-windows-do-i-have-2624927
+
+/test
+teastdffgadgfgaf
+
+/upgrade
+Go to this site : https://www.microsoft.com/en-gb/software-download/windows10 click "download tool now" and run the program. When you get the option to "upgrade this PC now" choose it and carry on through with the upgrade.
+
+/win10phoneact
+If it gives you an error that ends with 008, please close this window, and choose 'activate by phone' option at the very bottom of the window. After that, click 'Next' when you choose the country and send me this long number that will be shown there, 'Installation ID'
+
+/Windows10genuine
+Yes, the Windows 10 is downloaded directly from the Microsoft website so it is the full and genuine version of the software that comes with the Microsoft support and all updates as normal.
+
+/YW
+You're welcome!
