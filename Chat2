@@ -1,6 +1,6 @@
 INTRO
 ERROR
-WINDOWS 10
+WINDOWS
 OFFICE
 32 & 64 (difference)
 CMD
@@ -10,6 +10,7 @@ ANTIVIRUS
 UPDATES
 BANK
 BOOT
+SERVER
 
 
 
@@ -25,8 +26,11 @@ ERROR
 *****
 /050 					  - try generic home or pro key to see the error
 
-WINDOWS 10
-**********
+WINDOWS
+*******
+Problem:
+- if you are not familiar with the error use all the generic key to see error that you are familiar
+
 /10clean 				- usb creation, clean installation
 /7act-done 			- successfull activation message
 /Activation 		- enter key
@@ -34,6 +38,9 @@ WINDOWS 10
 
 OFFICE
 ******
+Problem:
+- if key cannot activate in the website, change the key and activate again
+
 /10phoneact 			    - phone activation
 /365officeuninstall 	- uninstall office 365
 
@@ -69,3 +76,17 @@ BANK
 BOOT
 ****
 /Boot 					- boot pc or laptop
+
+SERVER
+******
+phone activation  - same activation in windows 10
+
+
+
+
+
+
+
+
+
+
