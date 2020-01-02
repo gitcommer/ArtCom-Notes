@@ -1,85 +1,60 @@
 INTRO
-ERROR
-WINDOWS
-OFFICE
-32 & 64 (difference)
-CMD
-REFUND
-TRANSFER COMPUTER KEY
-ANTIVIRUS
-UPDATES
-BANK
-BOOT
-SERVER
-
-
-
-INTRO
-*****
-/hi 					  - Hi there!
-/hello 					- Hello there! How can I help you?
-/email 					- My I have your email use when purchased?
-/errorcode 				- Can you please tell me the error message or the error code?
-/check 					- Please hold on, while I check this.
-
-ERROR
-*****
-/050 					  - try generic home or pro key to see the error
+/hello or /Hi there
+/email
+/Inbox 					          - check inbox or spam box
+/check
+/delivery 					      - all details are sent in your email
+/key-and-links 				    - sent in your email
+/software 					      - email sent
+/softwarewin 				      - email
+/errorcode
+/FullVersionSoftware 			- download from microsoft website
+/genuine
+/guarantee 				        - software and texh support
+/Issue 					          - if you have questions
+/nopro 					          - fell free to contarct us
+/question10 				      - win10 already installed?
+/questionUpgrade 			    - do you want to upgrade?
+/right 					          - your in the right page or product
+/sale
+/scraped
+/Windows10genuine 			  - all product are genuine
 
 WINDOWS
-*******
-Problem:
-- if you are not familiar with the error use all the generic key to see error that you are familiar
-
-/10clean 				- usb creation, clean installation
-/7act-done 			- successfull activation message
-/Activation 		- enter key
-/Both 					- clean install or upgrade
+/cleaninstall
+/Guide-USB10 				      - clean install
+/Guide-upgrade10 			    - upgrade
+/upgrade 					        - upgrade
+/Activation 				      - enter key
+/Boot
+/Both 					          - clean install and upgrade
+/differe 					        - difference of home and pro
+/dvd 						          - download and dvd
+/Exchange 					      - change key
+/generickeyWin10HOME or Pro
+/printscreen 				      - send error screenshot
 
 OFFICE
-******
-Problem:
-- if key cannot activate in the website, change the key and activate again
+/10phoneact 				      - phone activation
+/officephoneact 				  - phone activation
+/OfficePhoneSuccessful 		- back, online activation
+/365officeuninstall
+/90daysHardwareChange
 
-/10phoneact 			    - phone activation
-/365officeuninstall 	- uninstall office 365
-
-32 & 64 (difference)
-********************
-/64-32 					- difference
-
-CMD
-***
-/7REARM 				- study
+HARDWARE
+/64-32
+/Ram 					            - ram capacity
 
 REFUND
-******
-/80refund 			- refund agent 80% cover
-
-TRANSFER COMPUTER KEY
-*********************
-/90daysHardwareChange 	- 3 months after
-
-ANTIVIRUS
-*********
-/antivirus-disable
-
-UPDATES
-*******
-/automaticupdates7 		- disable win7 update
-/automaticupdates8 		- disable win8 update
+/80refund 					      - 80%
+/refundpolicy 				    - no refund
 
 BANK
-****
-/BankBlocked 			- call the bank
-
-BOOT
-****
-/Boot 					- boot pc or laptop
-
-SERVER
-******
-phone activation  - same activation in windows 10
+/currency
+/payment					        - one time payment
+/Subscription 				    - one time payment
+/Paypal
+/security 					      - payment security
 
 
 
